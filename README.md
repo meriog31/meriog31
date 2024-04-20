@@ -1,4 +1,4 @@
-# Título del Proyecto
+# GitHub Meri
 ![Imagen de Portada](recursos/snoopy2.png)
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
