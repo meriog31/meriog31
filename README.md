@@ -1,5 +1,5 @@
 # Título del Proyecto
-![Imagen de Portada](recursos/snoopy.png)
+![Imagen de Portada](recursos/snoopy2.png)
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Características
